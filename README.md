@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BighnaBinashan
 - 👀 I’m interested in web development,
-- 🌱 I’m currently learning C,html,css,typescript, angular and react framework
-- 💞️ I’m looking to collaborate on certain project related to web development
+- 🌱 I’m comfotable with c, html, javascript, angular, C#.
+- 💞️ Interested in System Design.
 - 📫 How to reach me email:bighna242@gmail.com
 
 <!---
