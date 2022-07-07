@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BighnaBinashan
-- 👀 I’m interested in web development,
-- 🌱 I’m comfotable with c, html, javascript, angular, C#.
+- 👋 Hi, I’m Bighna Binashan Mushahary.
+- 👀 I’m interested in web development.
+- 🌱 I’m comfotable with c++,java, angular, HTML, CSS.
 - 💞️ Interested in System Design.
 - 📫 How to reach me email:bighna242@gmail.com
 
